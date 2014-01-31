@@ -1,6 +1,11 @@
 TxIMU_MPU9150_DMP
 =================
 
+This source is for a nRF51822 wireless Tx board with IMU sensor.
+And the development target is GPS coupled wireless IMU.
+
+In addition to, you can get source for a Rx board in other repository.
+
 1. Install Tip
 
    Firstly, you have to install nRF51 SDK. you can download it on Noridc web site.
