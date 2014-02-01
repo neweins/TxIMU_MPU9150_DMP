@@ -22,14 +22,15 @@ In addition to, you can get source for a Rx board in other repository.
    If you want to get more detail information, please contact to us:
 
    SW engineer: Lee Joongkeun
-   mail: neweins1@gmail.com
-   mobile: +82-10-3591-4237
+   Mail: neweins1@gmail.com
+   Mobile: +82-10-3591-4237
    
    HW engineer: Park Saeil
-   mail: sipark@celetra.com
+   Mail: sipark@celetra.com
    
-   CEO: Jung Yong
-   mail: yjung@celetra.com
+   CEO: Jung Yongju
+   Mail: yjung@celetra.com
 
 4. Sponsor
+ 
    This project is being supported by Celetra in Korea.
